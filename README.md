@@ -12,7 +12,7 @@ Let's consider these prerequisite :
 ### Installation
 
 ```
-npm install lunr-instant-search
+npm install lunr-instantsearch-client
 ```
 
 ### Configuration
